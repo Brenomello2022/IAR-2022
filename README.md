@@ -2,4 +2,4 @@ Repositório da disciplina de Inteligencia Artificial Aplicada à Sistemas de In
 
 Utilizando Python no ambiente do Google Colaboratory.
 
-Professor: Emannuell Dartora Cenzi.
+Professor: Emannuell Dartora Cenzi
