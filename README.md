@@ -1,5 +1,5 @@
-Repositório da disciplina de Inteligencia Artificial Aplicada à Sistemas de Informação 2022
+Repositório da disciplina de Inteligencia Artificial Aplicada à Sistemas de Informação 2022.
 
-Python em Google Colab
+Utilizando Python em Google Colaboratory.
 
-Professor: Emannuell Dartora Cenzi
+Professor: Emannuell Dartora Cenzi.
